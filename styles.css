@@ -8,7 +8,7 @@ body {
     margin: auto;
 }
 
-.ily ul {
+.ily {
     list-style: none;
     font-size: 60px;
     font-family: serif;
@@ -20,7 +20,7 @@ body {
     display:inline-block;
 }
 
-.page-text p {
+.page-text {
     text-align: center;
 }
 
