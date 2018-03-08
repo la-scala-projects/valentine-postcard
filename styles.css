@@ -3,12 +3,12 @@ body {
     margin: 0;
 }
 
-.center {
+.main-container {
     padding-top: 30px;
     margin: auto;
 }
 
-.ily {
+.heart-container {
     list-style: none;
     font-size: 60px;
     font-family: serif;
@@ -16,15 +16,15 @@ body {
     word-spacing: 30px;
 }
 
-.ily li {
-    display:inline-block;
+.heart-container li {
+    display: inline-block;
 }
 
 .page-text {
     text-align: center;
 }
 
-.copy {
+.copy-text {
     font-size: 10px;
     color: #0e0e0e;
     text-align: center;
@@ -35,7 +35,7 @@ body {
     width: 50px;
     height: 85px;
     background-color: red;
-    box-shadow: -1px 0px 2px #444444;
+    box-shadow: -1px 0 2px #444444;
     border-radius: 50px 50px 0 0;
 }
 
@@ -47,7 +47,7 @@ body {
     bottom: 0;
     content: "";
     background-color: red;
-    box-shadow: 0px 3px 3px #444444;
+    box-shadow: 0 3px 3px #444444;
     border-radius: 0 50px 50px 0;
 }
 
